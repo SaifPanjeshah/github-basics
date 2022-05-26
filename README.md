@@ -1,7 +1,9 @@
 # github-basics
 
 Simple DevOps Project
-https://www.skillshare.com/classes/DevOps-Project-CICD-with-Git-Jenkins-Ansible-Docker-Kubernetes-on-AWS/7345637
+
+![image](https://user-images.githubusercontent.com/106016019/170533113-f3aef65e-c150-4964-989c-546a3f42cde9.png)
+
 
 This Repository is a collection of Implementation documents.
 
